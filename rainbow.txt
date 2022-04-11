@@ -1,9 +1,11 @@
-Rainbow
+Rainbow and the unicorns 
 
 red,
 blue,
 yellow,
 green,
+unicorns,
 pink
 
-Are the colors of the rainbow
+Are the colors of the rainbow and the unicorns 
+
