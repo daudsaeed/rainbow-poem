@@ -2,6 +2,7 @@ Rainbow
 
 red,
 blue,
-yellow
+yellow,
+green
 
 Are the colors of the rainbow
