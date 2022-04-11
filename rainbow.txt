@@ -3,6 +3,7 @@ Rainbow
 red,
 blue,
 yellow,
-green
+green,
+pink
 
 Are the colors of the rainbow
