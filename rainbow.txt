@@ -1,0 +1,7 @@
+Rainbow
+
+red,
+blue,
+yellow
+
+Are the colors of the rainbow
